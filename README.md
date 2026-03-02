@@ -23,6 +23,10 @@ Podés probar la demo funcional aquí:
 <img width="796" height="643" alt="2" src="https://github.com/user-attachments/assets/fe40417f-774c-47a5-bd63-34af332e8946" />
 <img width="792" height="634" alt="3" src="https://github.com/user-attachments/assets/4d923b26-20b0-4a1b-934b-b350c7c83923" />
 <img width="798" height="646" alt="4" src="https://github.com/user-attachments/assets/2a98e30a-989d-408e-bbd0-a36bdf19d999" />
+<img width="795" height="640" alt="5" src="https://github.com/user-attachments/assets/1668fe37-3493-4882-a254-c4dda97ce640" />
+<img width="795" height="650" alt="6" src="https://github.com/user-attachments/assets/e08bec24-adf7-4fdd-86f1-d0f8b43f4be0" />
+<img width="797" height="640" alt="7" src="https://github.com/user-attachments/assets/b5bb446a-7dd7-45e4-b1fa-45a9c5bb7126" />
+
 
 
 
